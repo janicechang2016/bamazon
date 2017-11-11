@@ -1,6 +1,7 @@
 <h1>Bamazon: A Node.js and MySQL Application</h1>
 
 
+
 <h2>Description</h2>
 <p>Bamazon is an interactive storefront that displays an inventory of products for sale including the item ID, name, department name, price, and quantity. The app can take customer orders via the command line, and deplete stock from the store's inventory accordingly through the use of Node.js and MySQL.</p>
 
